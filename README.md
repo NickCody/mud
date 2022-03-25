@@ -1,6 +1,6 @@
 # mud
 
-A simple mud
+A simple mud learner project.
 
 ## To Run
 
